@@ -10,3 +10,5 @@ const App = () => {
 }
 
 export default App
+
+// this is for only practice purpose
